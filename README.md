@@ -1,4 +1,4 @@
-##  Oii! Eu sou Ana Paula  
+##  👋  Oii! Eu sou a Ana Paula  
 
 - 🎓 Bacharelado em Tecnologia da Informação - UFRN  
 - 💡 Explorando o universo da tecnologia e transformando ideias em soluções criativas.  
